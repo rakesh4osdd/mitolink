@@ -1,0 +1,27 @@
+This tool help to get data for galaxy from MtBrowse (Genome Browser version 2.55).
+
+The working environment is:
+Galaxy Version Tag v15.10
+Python 2.7.10
+CentOS 6.5 x86_64
+Kernel Version 2.6.32-431.29.2.el6.x86_64
+gcc version 4.4.7 20120313 (Red Hat 4.4.7-23) (GCC)
+Genome Browser version 2.55
+
+Now this tool need to deploy on Galaxy version tag v20.01 with following environment
+Galaxy Version Tag v20.01
+Python 3.6.7
+Ubuntu precise (12.04.5 LTS)
+Kernel Version 3.5.0-23-generic
+gcc version 4.6.3 (Ubuntu/Linaro 4.6.3-1ubuntu5)
+Genome Browser version 2.55
+
+
+"MtBrowse: An integrative genomics browser for human mitochondrial DNA." 
+Singh V, Jolly B, Rajput NK, Pramanik S, Bhardwaj A
+http://ab-openlab.csir.res.in/cgi-bin/gb2/gbrowse/mitolink
+https://www.ncbi.nlm.nih.gov/pubmed/30738202
+Mitochondrion. 2019 Sep;48:31-36. doi: 10.1016/j.mito.2019.02.003.
+
+
+--Rakesh Kumar, rakesh4osdd@gmail.com
