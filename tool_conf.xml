@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<toolbox>
+  <section id="getext" name="Get Data">
+    <tool file="mitolink/mtbrowse/mtbrowse.xml" />
+  </section>
+</toolbox>
