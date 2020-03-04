@@ -16,7 +16,10 @@ Kernel Version 3.5.0-23-generic
 gcc version 4.6.3 (Ubuntu/Linaro 4.6.3-1ubuntu5)
 Genome Browser version 2.55
 
+data_source.py: Galaxy v15.10 script for get data from source
+mtbrowse.py: XML file to get data from MtBrowse to Galaxy v15.10
 
+Reference:
 "MtBrowse: An integrative genomics browser for human mitochondrial DNA." 
 Singh V, Jolly B, Rajput NK, Pramanik S, Bhardwaj A
 http://ab-openlab.csir.res.in/cgi-bin/gb2/gbrowse/mitolink
