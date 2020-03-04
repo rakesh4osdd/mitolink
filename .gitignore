@@ -1,3 +1,7 @@
+### User based list ###
+.git-credentials
+.gitignore
+### Python gitignore list ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
